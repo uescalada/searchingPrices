@@ -1,0 +1,4 @@
+com\microservice\entity\Price.class
+com\microservice\Price3Application.class
+com\microservice\rest\PriceController.class
+com\microservice\repository\PriceRepository.class
