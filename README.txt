@@ -2,6 +2,7 @@ This test was really challenging.
 
 I have decided, in addition owas orginnaly reqeuset in the test,
 a Swagger plugin to enhance visualziation of the Rest microservices
+http://localhost:8080/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config#/price-controller
 
 
 Microservices REST.
